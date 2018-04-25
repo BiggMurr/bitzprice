@@ -1,7 +1,7 @@
 {
   "name": "bitzprice",
   "version": "1.0.0",
-  "description": "",
+  "description": "> Sample Next.js app which whos the current Bitcoin value in USD, GBP and EUR",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -14,7 +14,15 @@
   "dependencies": {
     "isomorphic-unfetch": "^2.0.0",
     "next": "^4.2.3",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
-  }
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiggMurr/bitzprice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BiggMurr/bitzprice/issues"
+  },
+  "homepage": "https://github.com/BiggMurr/bitzprice#readme"
 }
